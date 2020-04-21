@@ -1,0 +1,27 @@
+{
+  "name": "user-permission-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxtasy/user-roles-management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maxtasy/user-roles-management/issues"
+  },
+  "homepage": "https://github.com/Maxtasy/user-roles-management#readme",
+  "description": ""
+}
